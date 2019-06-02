@@ -1,3 +1,11 @@
+/* 
+Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
+
+Given a roman numeral, convert it to an integer. Input is guaranteed to be within the range from 1 to 3999.
+
+Result: Runtime: 20 ms, faster than 75.58% of C++ online submissions for Roman to Integer.
+        Memory Usage: 10.5 MB, less than 67.41% of C++ online submissions for Roman to Integer.
+*/
 class Solution {
 public:
     
